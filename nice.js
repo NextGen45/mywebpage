@@ -20,8 +20,8 @@ askquestion();
       //document.write('<img src="https://static.wikia.nocookie.net/marvel_dc/images/4/4b/Batman_Vol_3_86_Textless.jpg/revision/latest?cb=20200502132734" alt="img">');
 
      // console.log(i); 
-    } 
-}
+    
+
 //imageCount();
 
 
